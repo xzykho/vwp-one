@@ -1,0 +1,19 @@
+{
+  "name": "vwp-one",
+  "version": "1.0.0",
+  "description": "My first attempt at Headless WP using JAM Stack tutorial by Sarah Drasner published on Smashing Magazine https://www.smashingmagazine.com/2020/02/headless-wordpress-site-jamstack/",
+  "author": "Rod Drigz",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
